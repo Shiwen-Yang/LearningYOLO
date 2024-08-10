@@ -1,0 +1,12 @@
+path: C:/Users/yangs/Documents/Python Projects/YOLO-Head-Detection/yolo_data
+train: images/train
+val: images/validation
+test: images/test
+
+nc: 4
+
+names:
+  0: ct
+  1: cthead
+  2: t
+  3: thead
