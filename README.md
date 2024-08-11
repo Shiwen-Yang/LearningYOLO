@@ -1,2 +1,1 @@
-# YOLO-Head-Detection
- Using the YOLO model to detect heads. 
+Using YOLO to detect other players
